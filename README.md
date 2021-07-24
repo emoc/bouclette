@@ -1,7 +1,7 @@
 # bouclette
 
 Synthé software pour créer des petites boucles très rapidement dans un fichier sonore.  
-Avec comme objectif de pouvoir produire des grains sonores rapidement dans un extrait sonore
+Avec comme objectif de pouvoir jouer des grains sonores rapidement dans un fichier son.  
 Réalisé avec Processing pour l'interface graphique, ChucK pour le moteur sonore + sox et audiowaveform pour créer l'image de la forme d'onde.  
 En somme beaucoup trop de logiciels mais bon...
 
